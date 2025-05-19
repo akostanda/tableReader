@@ -178,3 +178,4 @@ cython_debug/
 *.zip
 data/
 resources/*
+!resources/.gitkeep
