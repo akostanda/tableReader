@@ -6,7 +6,7 @@ and displays the content of the tables in the console.
 
 
 ## Technologies
-* Python
+* Python 3.12
 
 
 # Project settings
@@ -26,11 +26,11 @@ and displays the content of the tables in the console.
 5. Project run  
    To run the certain archives, use:
     ```bash
-      python main.py <archive_name_1> <archive_name_2> ...
+      python3 main.py <archive_name_1> <archive_name_2> ...
     ```
     To run all archives in the resources folder, use:
     ```bash
-      python main.py
+      python3 main.py
     ```
 6. Follow the instructions in the console
 
